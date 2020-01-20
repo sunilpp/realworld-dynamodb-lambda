@@ -76,7 +76,7 @@ functions:
 ```
 
 ## Storage
-For storage, [AWS DynamoDB](https://aws.amazon.com/dynamodb/) a managed serverless NoSQL database is used. Tables are created to store `users`, `articles` and `comments` also described in `serverless.yml` file. For example:
+For storage, [AWS DynamoDB](https://aws.amazon.com/dynamodb/) a managed serverless NoSQL database is used. Tables are created to store `users`, `articles` and `comments` also described in `serverless.yml` file. For example (below):
 ```
 resources:
   Resources:
