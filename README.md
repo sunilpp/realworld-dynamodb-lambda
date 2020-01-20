@@ -1,7 +1,7 @@
 # ![RealWorld Example App](https://rawgit.com/anishkny/realworld-dynamodb-lambda/master/lambda-node-logo.png)
 
 [![RealWorld Backend](https://img.shields.io/badge/realworld-backend-%23783578.svg)](http://realworld.io)
-[![Build Status](https://travis-ci.org/anishkny/realworld-dynamodb-lambda.svg?branch=master)](https://travis-ci.org/anishkny/realworld-dynamodb-lambda)
+[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVzJlVE5OTWFQd0FuV01QUG5VOTB6S2xuN0lsTXQzZVJwUy9hZng3dDRmMk9wY2RVc1JPUU5KR2dMOHVLSkN4aDhDYjhRUnAvZ0E2eWx1N0VFNDNYTS9FPSIsIml2UGFyYW1ldGVyU3BlYyI6ImdjMUVWdUJXQ2VaVFBOaHEiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/anishkny/realworld-dynamodb-lambda/badge.svg?branch=master)](https://coveralls.io/github/anishkny/realworld-dynamodb-lambda?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/anishkny/realworld-dynamodb-lambda.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/github/anishkny/realworld-dynamodb-lambda/badge.svg)](https://snyk.io/test/github/anishkny/realworld-dynamodb-lambda)
